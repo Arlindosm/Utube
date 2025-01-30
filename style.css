@@ -598,4 +598,4 @@ textarea {
     visibility: hidden
 }
 
-</style>
+</style><form action="/results" class="ytSearchboxComponentSearchForm"><input name="search_query" type="text" autocomplete="off" autocorrect="off" aria-autocomplete="list" role="combobox" class="ytSearchboxComponentInput yt-searchbox-input title" placeholder="Pesquisar"></form><input name="search_query" type="text" autocomplete="off" autocorrect="off" aria-autocomplete="list" role="combobox" class="ytSearchboxComponentInput yt-searchbox-input title" placeholder="Pesquisar"></form>
